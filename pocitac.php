@@ -19,15 +19,15 @@
   * názvy a datové typy
   */
 echo "<h1>Datové typy</h1>";
-echo "<p>nazev</p>";
+echo "<p></p>";
 echo var_dump($nazev);
-echo "<p>vyrobce</p>";
+echo "<p></p>";
 echo var_dump($vyrobce);
-echo "<p>OS</p>";
+echo "<p></p>";
 echo var_dump($OS);
-echo "<p>VelikostRAM</p>";
+echo "<p></p>";
 echo var_dump($VelikostRAM);
-echo "<p>VelikostUložiště</p>";
+echo "<p></p>";
 echo var_dump($VelikostUložiště);
-echo "<p>MaSSD</p>";
+echo "<p></p>";
 echo var_dump($MaSSD);
