@@ -10,7 +10,7 @@ $prumer = ($test1 + $test2 + $test3) / 3;
 $soucet = $test1 + $test2 + $test3;
 $procenta = (($test1 + $test2 + $test3) / 3) . "%";
 
-// Test 1
+
 if (($test1 <= 100) && ($test1 >= 90)) {
     $grade1 = 1;
 } elseif (($test1 >= 75) && ($test1 <= 89)) {
@@ -23,7 +23,7 @@ if (($test1 <= 100) && ($test1 >= 90)) {
     $grade1 = 5;
 }
 
-// Test 2
+
 if (($test2 <= 100) && ($test2 >= 90)) {
     $grade2 = 1;
 } elseif (($test2 >= 75) && ($test2 <= 89)) {
@@ -36,7 +36,7 @@ if (($test2 <= 100) && ($test2 >= 90)) {
     $grade2 = 5;
 }
 
-// Test 3
+
 if (($test3 <= 100) && ($test3 >= 90)) {
     $grade3 = 1;
 } elseif (($test3 >= 75) && ($test3 <= 89)) {
